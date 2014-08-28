@@ -12,7 +12,7 @@ bool prime (int x)
 }
 int main()
 {
-    cout <<"Enter a number to show prime number from 2 to n : ";
+    cout <<"Enter a number to show prime numbers from 2 to n : ";
     int n;
     cin>>n;
     for (int c=1;c<=n;c++)
